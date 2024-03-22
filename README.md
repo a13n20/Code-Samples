@@ -9,31 +9,31 @@ Sample scripts that I've done throughout my time in Chico
 
 In this project, I had to create a script that would sort a random vector using four different methods, and record the runtime for each method based on the worst, best, and average cases. All code in Project_1.cpp is written by me.
 
-[Project_1.cpp](https://github.com/a13n20/Code-Samples/blob/23fec6bb761ec84658d847a3d7715978054260ce/Project%201/project_1.cpp)
+[Project_1.cpp](https://a13n20.github.io/Code-Samples/Project%201/project_1.cpp)
 
 ### Airport Simulation
 
 This project was for creating a script simulating an airport's landings and takeoffs, where one runway prioritized takeoffs and the other prioritized landings. Planes were sorted based on priority using heapsort. Airport Simulation is the full project details. All code files are written by me.
 
-[Airport Simulation](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/AirportSimulation.pdf) | 
-[AirportDriver.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/AirportDriver.cpp) | 
-[Heap.h](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Heap.h) | 
-[Heap.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Heap.cpp) | 
-[Plane.h](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Plane.h) | 
-[Plane.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Plane.cpp) | 
-[Makefile](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Makefile)
+[Airport Simulation](https://a13n20.github.io/Code-Samples/Project%202/AirportSimulation.pdf) | 
+[AirportDriver.cpp](https://a13n20.github.io/Code-Samples/Project%202/AirportDriver.cpp) | 
+[Heap.h](https://a13n20.github.io/Code-Samples/Project%202/Heap.h) | 
+[Heap.cpp](https://a13n20.github.io/Code-Samples/Project%202/Heap.cpp) | 
+[Plane.h](https://a13n20.github.io/Code-Samples/Project%202/Plane.h) | 
+[Plane.cpp](https://a13n20.github.io/Code-Samples/Project%202/Plane.cpp) | 
+[Makefile](https://a13n20.github.io/Code-Samples/Project%202/Makefile)
 
 ### Dijkstra's Algorithm
 
 This project simulated a car traveling from one point to another on a graph. Some nodes had charging stations, while others didn't. The code was supposed to output the shortest possible distance, if any, from point A to point B using Dijkstra's algorithm. Dijkstra's Algorithm is the full project details. All code files are written by me.
 
-[Dijkstra's Algorithm](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/DijkstrasAlgorithm.pdf) | 
-[Project_3.cpp](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/project_3.cpp) | 
-[Node.h](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Node.h) | 
-[Node.cpp](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Node.cpp) | 
-[Graph.h](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Graph.h) | 
-[Graph.cpp](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Graph.cpp) | 
-[Makefile](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Makefile)
+[Dijkstra's Algorithm](https://a13n20.github.io/Code-Samples/Project_3/DijkstrasAlgorithm.pdf) | 
+[Project_3.cpp](https://a13n20.github.io/Code-Samples/Project_3/project_3.cpp) | 
+[Node.h](https://a13n20.github.io/Code-Samples/Project_3/Node.h) | 
+[Node.cpp](https://a13n20.github.io/Code-Samples/Project_3/Node.cpp) | 
+[Graph.h](https://a13n20.github.io/Code-Samples/Project_3/Graph.h) | 
+[Graph.cpp](https://a13n20.github.io/Code-Samples/Project_3/Graph.cpp) | 
+[Makefile](https://a13n20.github.io/Code-Samples/Project_3/Makefile)
 
 ## C# (Unity)
 
@@ -43,36 +43,36 @@ All of these samples come from my most recent project, Seven Seas to Glory.
 
 This is the first time I've ever programmed a saving system for a game. 
 
-[PlayerData.cs](https://github.com/a13n20/Code-Samples/blob/5cf04cceb9b71a67e0aaa305aebd71e68e94741b/Natalie's%20Scripts/Saving/PlayerData.cs) | 
-[SaveAndLoad.cs](https://github.com/a13n20/Code-Samples/blob/5cf04cceb9b71a67e0aaa305aebd71e68e94741b/Natalie's%20Scripts/Saving/SaveAndLoad.cs) | 
-[Saving.cs](https://github.com/a13n20/Code-Samples/blob/5cf04cceb9b71a67e0aaa305aebd71e68e94741b/Natalie's%20Scripts/Saving/Saving.cs)
+[PlayerData.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Saving/PlayerData.cs) | 
+[SaveAndLoad.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Saving/SaveAndLoad.cs) | 
+[Saving.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Saving/Saving.cs)
 
 ### UI
 
 These are all scripts I've written related to UI in the game, as well as the player's ship health to show how the health bar is implemented.
 
-[SceneSwitch.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/SceneSwitch.cs) | 
-[PauseMenu.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/PauseMenu.cs) | 
-[PopupUI.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/PopupUI.cs) | 
-[HealthBar.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/HealthBar.cs) | 
-[Billboard.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/Billboard.cs) | 
-[PlayerShipHealth.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Player/PlayerShipHealth.cs)
+[SceneSwitch.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/SceneSwitch.cs) | 
+[PauseMenu.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/PauseMenu.cs) | 
+[PopupUI.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/PopupUI.cs) | 
+[HealthBar.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/HealthBar.cs) | 
+[Billboard.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/Billboard.cs) | 
+[PlayerShipHealth.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Player/PlayerShipHealth.cs)
 
 ### Cannonball Variants
 
 These are scripts related to cannonball damage and ship health. The class is called "Ammo Class" because it eventually will be used for different bullet types as well.
 
-[AmmoClass.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/AmmoClass.cs) | 
-[EnemyCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/EnemyCannonBall.cs) | 
-[NormalCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/NormalCannonBall.cs) | 
-[ExplosiveCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/ExplosiveCannonBall.cs) | 
-[ShipHealth.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/ShipHealth.cs) | 
-[FreezingCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
-[EnemyShipAI.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/EnemyShipAI.cs)
+[AmmoClass.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/AmmoClass.cs) | 
+[EnemyCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/EnemyCannonBall.cs) | 
+[NormalCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/NormalCannonBall.cs) | 
+[ExplosiveCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/ExplosiveCannonBall.cs) | 
+[ShipHealth.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/ShipHealth.cs) | 
+[FreezingCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
+[EnemyShipAI.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/EnemyShipAI.cs)
 
 ### Player Interactions
 
 These are scripts that are related to the player directly.
 
-[ControllerSwitch.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/ControllerSwitch.cs) | 
-[Floating.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Player/Floating.cs)
+[ControllerSwitch.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/ControllerSwitch.cs) | 
+[Floating.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Player/Floating.cs)
