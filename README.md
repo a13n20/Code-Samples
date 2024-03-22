@@ -15,12 +15,12 @@ In this project, I had to create a script that would sort a random vector using 
 
 This project was for creating a script simulating an airports landings and takeoffs, where one runway prioritized takeoffs and the other prioritized landings. Planes were sorted based on priority using heapsort. Airport Simulation is the full project details. All code files are written by me.
 
-[Airport Simulation](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/AirportSimulation.pdf)
-[AirportDriver.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/AirportDriver.cpp)
-[Heap.h](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Heap.h)
-[Heap.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Heap.cpp)
-[Plane.h](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Plane.h)
-[Plane.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Plane.cpp)
+[Airport Simulation](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/AirportSimulation.pdf) | 
+[AirportDriver.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/AirportDriver.cpp) | 
+[Heap.h](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Heap.h) | 
+[Heap.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Heap.cpp) | 
+[Plane.h](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Plane.h) | 
+[Plane.cpp](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Plane.cpp) | 
 [Makefile](https://github.com/a13n20/Code-Samples/blob/8d1347f310220efda31a7f2005bfabb5c3f9f251/Project%202/Makefile)
 
 ## C# (Unity)
