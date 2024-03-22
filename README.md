@@ -1,5 +1,6 @@
 # Code Samples
 Created by: Natalie Hoffmann
+[GitHub Repository](https://github.com/a13n20/Code-Samples)
 
 Sample scripts that I've done throughout my time in Chico
 
