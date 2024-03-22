@@ -64,7 +64,7 @@ These are scripts related to cannonball damage and ship health. The class is cal
 [EnemyCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/EnemyCannonBall.cs) | 
 [NormalCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/NormalCannonBall.cs) | 
 [ExplosiveCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/ExplosiveCannonBall.cs) | 
-[ShipHealth.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/ShipHealth.cs) | 
+[ShipHealth.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/ShipHealth.cs) | 
 [FreezingCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
 [EnemyShipAI.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/EnemyShipAI.cs)
 
