@@ -18,7 +18,6 @@ public class ShipHealth : MonoBehaviour
         // player takes dmg
         health -= damage;
 
-        //More of Natalie's Healthbar
         healthBar.SetHealth(health);
 
         // Check if the pirate's health is below or equal to zero
@@ -28,6 +27,7 @@ public class ShipHealth : MonoBehaviour
         }
     }
 
+    // For exploding cannonball
     public void TakeIncrementalDamage(float damage, float time, float increment)
     {
         StartCoroutine(IncrementalDamageRoutine(damage, time, increment));
