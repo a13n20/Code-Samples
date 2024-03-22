@@ -20,8 +20,7 @@ This project was for creating a script simulating an airport's landings and take
 [Heap.h](https://a13n20.github.io/Code-Samples/Project%202/Heap.h) | 
 [Heap.cpp](https://a13n20.github.io/Code-Samples/Project%202/Heap.cpp) | 
 [Plane.h](https://a13n20.github.io/Code-Samples/Project%202/Plane.h) | 
-[Plane.cpp](https://a13n20.github.io/Code-Samples/Project%202/Plane.cpp) | 
-[Makefile](https://a13n20.github.io/Code-Samples/Project%202/Makefile)
+[Plane.cpp](https://a13n20.github.io/Code-Samples/Project%202/Plane.cpp)
 
 ### Dijkstra's Algorithm
 
@@ -32,8 +31,7 @@ This project simulated a car traveling from one point to another on a graph. Som
 [Node.h](https://a13n20.github.io/Code-Samples/Project_3/Node.h) | 
 [Node.cpp](https://a13n20.github.io/Code-Samples/Project_3/Node.cpp) | 
 [Graph.h](https://a13n20.github.io/Code-Samples/Project_3/Graph.h) | 
-[Graph.cpp](https://a13n20.github.io/Code-Samples/Project_3/Graph.cpp) | 
-[Makefile](https://a13n20.github.io/Code-Samples/Project_3/Makefile)
+[Graph.cpp](https://a13n20.github.io/Code-Samples/Project_3/Graph.cpp)
 
 ## C# (Unity)
 
