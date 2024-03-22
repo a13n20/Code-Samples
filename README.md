@@ -49,13 +49,14 @@ This is the first time I've ever programmed a saving system for a game.
 
 ### UI
 
-These are all scripts I've written related to UI in the game.
+These are all scripts I've written related to UI in the game, as well as the player's ship health to show how the health bar is implemented.
 
 [SceneSwitch.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/SceneSwitch.cs) | 
 [PauseMenu.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/PauseMenu.cs) | 
 [PopupUI.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/PopupUI.cs) | 
 [HealthBar.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/HealthBar.cs) | 
-[Billboard.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/Billboard.cs)
+[Billboard.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/Billboard.cs) | 
+[PlayerShipHealth.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Player/PlayerShipHealth.cs)
 
 ### Cannonball Variants
 
@@ -68,3 +69,7 @@ These are scripts related to cannonball damage and ship health. The class is cal
 [ShipHealth.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/ShipHealth.cs) | 
 [FreezingCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
 [EnemyShipAI.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/EnemyShipAI.cs)
+
+### Player Interactions
+
+This are scripts that are related to player controller
