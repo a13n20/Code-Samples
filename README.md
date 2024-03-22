@@ -41,36 +41,36 @@ All of these samples come from my most recent project, Seven Seas to Glory.
 
 This is the first time I've ever programmed a saving system for a game. 
 
-[PlayerData.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Saving/PlayerData.cs) | 
-[SaveAndLoad.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Saving/SaveAndLoad.cs) | 
-[Saving.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Saving/Saving.cs)
+[PlayerData.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Saving/PlayerData.cs) | 
+[SaveAndLoad.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Saving/SaveAndLoad.cs) | 
+[Saving.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Saving/Saving.cs)
 
 ### UI
 
 These are all scripts I've written related to UI in the game, as well as the player's ship health to show how the health bar is implemented.
 
-[SceneSwitch.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/SceneSwitch.cs) | 
-[PauseMenu.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/PauseMenu.cs) | 
-[PopupUI.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/PopupUI.cs) | 
-[HealthBar.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/HealthBar.cs) | 
-[Billboard.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/UI/Billboard.cs) | 
-[PlayerShipHealth.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Player/PlayerShipHealth.cs)
+[SceneSwitch.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/SceneSwitch.cs) | 
+[PauseMenu.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/UI/PauseMenu.cs) | 
+[PopupUI.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/UI/PopupUI.cs) | 
+[HealthBar.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/UI/HealthBar.cs) | 
+[Billboard.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/UI/Billboard.cs) | 
+[PlayerShipHealth.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Player/PlayerShipHealth.cs)
 
 ### Cannonball Variants
 
 These are scripts related to cannonball damage and ship health. The class is called "Ammo Class" because it eventually will be used for different bullet types as well.
 
-[AmmoClass.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/AmmoClass.cs) | 
-[EnemyCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/EnemyCannonBall.cs) | 
-[NormalCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/NormalCannonBall.cs) | 
-[ExplosiveCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/ExplosiveCannonBall.cs) | 
+[AmmoClass.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Ammunition%20Types/AmmoClass.cs) | 
+[EnemyCannonBall.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Ammunition%20Types/EnemyCannonBall.cs) | 
+[NormalCannonBall.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Ammunition%20Types/NormalCannonBall.cs) | 
+[ExplosiveCannonBall.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Ammunition%20Types/ExplosiveCannonBall.cs) | 
 [ShipHealth.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/ShipHealth.cs) | 
-[FreezingCannonBall.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
-[EnemyShipAI.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/EnemyShipAI.cs)
+[FreezingCannonBall.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
+[EnemyShipAI.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/EnemyShipAI.cs)
 
 ### Player Interactions
 
 These are scripts that are related to the player directly.
 
-[ControllerSwitch.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/ControllerSwitch.cs) | 
-[Floating.cs](https://a13n20.github.io/Code-Samples/Natalie's%20Scripts/Player/Floating.cs)
+[ControllerSwitch.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/ControllerSwitch.cs) | 
+[Floating.cs](https://raw.githubusercontent.com/a13n20/Code-Samples/main/Natalie's%20Scripts/Player/Floating.cs)
