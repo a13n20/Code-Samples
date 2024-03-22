@@ -39,7 +39,7 @@ This project simulated a car traveling from one point to another on a graph. Som
 
 All of these samples come from my most recent project, Seven Seas to Glory.
 
-### Saving the game
+### Saving the Game
 
 This is the first time I've ever programmed a saving system for a game. 
 
@@ -51,5 +51,15 @@ This is the first time I've ever programmed a saving system for a game.
 
 These are all scripts I've written related to UI in the game.
 
+[SceneSwitch.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/SceneSwitch.cs) | 
+[PauseMenu.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/PauseMenu.cs) | 
+[PopupUI.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/PopupUI.cs) | 
+[HealthBar.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/HealthBar.cs) | 
+[Billboard.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/UI/Billboard.cs)
 
+### Cannonball Variants
 
+These are scripts related to cannonball damage and ship health. The class is called "Ammo Class" because it eventually will be used for different bullet types as well.
+
+[ShipHealth.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/ShipHealth.cs) | 
+[AmmoClass.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/AmmoClass.cs) | 
