@@ -1,3 +1,4 @@
+// All settings are commented out because that page doesn't exist yet
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
