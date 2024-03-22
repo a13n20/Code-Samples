@@ -27,12 +27,12 @@ This project was for creating a script simulating an airport's landings and take
 
 This project simulated a car traveling from one point to another on a graph. Some nodes had charging stations, while others didn't. The code was supposed to output the shortest possible distance, if any, from point A to point B using Dijkstra's algorithm. Dijkstra's Algorithm is the full project details. All code files are written by me.
 
-[Dijkstra's Algorithm]
-[Project_3.cpp]
-[Node.h]
-[Node.cpp]
-[Graph.h]
-[Graph.cpp]
-[Makefile]
+[Dijkstra's Algorithm](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/DijkstrasAlgorithm.pdf) | 
+[Project_3.cpp](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/project_3.cpp) | 
+[Node.h](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Node.h) | 
+[Node.cpp](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Node.cpp) | 
+[Graph.h](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Graph.h) | 
+[Graph.cpp](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Graph.cpp) | 
+[Makefile](https://github.com/a13n20/Code-Samples/blob/f894dc585c2ed6ec41fd13429ba2d6e37af2c4ca/Project_3/Makefile)
 
 ## C# (Unity)
