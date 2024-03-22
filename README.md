@@ -43,7 +43,13 @@ All of these samples come from my most recent project, Seven Seas to Glory.
 
 This is the first time I've ever programmed a saving system for a game. 
 
-[PlayerData.cs](
-[SaveAndLoad.cs]
-[Saving.cs]
+[PlayerData.cs](https://github.com/a13n20/Code-Samples/blob/5cf04cceb9b71a67e0aaa305aebd71e68e94741b/Natalie's%20Scripts/Saving/PlayerData.cs) | 
+[SaveAndLoad.cs](https://github.com/a13n20/Code-Samples/blob/5cf04cceb9b71a67e0aaa305aebd71e68e94741b/Natalie's%20Scripts/Saving/SaveAndLoad.cs) | 
+[Saving.cs](https://github.com/a13n20/Code-Samples/blob/5cf04cceb9b71a67e0aaa305aebd71e68e94741b/Natalie's%20Scripts/Saving/Saving.cs)
+
+### UI
+
+These are all scripts I've written related to UI in the game.
+
+
 
