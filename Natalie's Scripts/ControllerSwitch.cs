@@ -29,6 +29,7 @@ public class ControllerSwitch : MonoBehaviour
 
     private void Start()
     {
+        // Ensure all values are properly set when game starts
         InCharacter = true;
         Character.GetComponent<PlayerController>().enabled = true;
         Camera.GetComponent<FiringMode>().enabled = false;
@@ -75,10 +76,13 @@ public class ControllerSwitch : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
+        // Player can drive ship in certain range of wheel
         if (other.tag == "Wheel")
         {
             CanDriveShip = true;
         }
+
+        // Player switches to hand-to-hand combat at a certain distance from enemy ship
         else if (other.tag == "HandtoHand")
         {
             other.gameObject.transform.parent.GetComponent<EnemyShipAI>().speed = 0;
@@ -89,6 +93,7 @@ public class ControllerSwitch : MonoBehaviour
 
     void OnTriggerExit(Collider other)
     {
+        // Player is no longer able to drive the ship
         if (other.tag == "Wheel")
         {
             CanDriveShip = false;
@@ -130,6 +135,7 @@ public class ControllerSwitch : MonoBehaviour
 
     void SwitchToCannon()
     {
+        // stores previous cannon side
         if (LeftCannon)
         {
             Camera.transform.localPosition = LeftCannonCam.transform.localPosition;
