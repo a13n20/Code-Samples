@@ -72,4 +72,7 @@ These are scripts related to cannonball damage and ship health. The class is cal
 
 ### Player Interactions
 
-This are scripts that are related to player controller
+These are scripts that are related to the player directly.
+
+[ControllerSwitch.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/ControllerSwitch.cs) | 
+[Floating.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Player/Floating.cs)
