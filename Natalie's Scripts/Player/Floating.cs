@@ -15,6 +15,7 @@ public class Floating : MonoBehaviour
 
     private void FixedUpdate()
     {
+        // Simulates feelings of falling in water. Player bobs for a short time.
         if(transform.position.y < waterLevel)
         {
             float distanceBelowWater = waterLevel - transform.position.y;
@@ -30,6 +31,7 @@ public class Floating : MonoBehaviour
             returnToShip.enabled = true;
         }
 
+        //Player can return to the ship if they are in water
         if(floating == true && Input.GetKeyDown(KeyCode.F))
         {
             this.gameObject.transform.position = shipReturn.transform.position;
