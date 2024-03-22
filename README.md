@@ -63,3 +63,8 @@ These are scripts related to cannonball damage and ship health. The class is cal
 
 [ShipHealth.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/ShipHealth.cs) | 
 [AmmoClass.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/AmmoClass.cs) | 
+[EnemyCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/EnemyCannonBall.cs) | 
+[NormalCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/NormalCannonBall.cs) | 
+[ExplosiveCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/ExplosiveCannonBall.cs) |
+[FreezingCannonBall.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/Ammunition%20Types/FreezingCannonBall.cs) | 
+[EnemyShipAI.cs](https://github.com/a13n20/Code-Samples/blob/b163204ee7c4eadd90ed0c3c092659c3a6342ded/Natalie's%20Scripts/EnemyShipAI.cs)
